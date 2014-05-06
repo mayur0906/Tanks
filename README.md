@@ -5,4 +5,4 @@ A Tank game, based on HTML5 and JavaScript. The objective of the game, is to sho
 
 Please read the license file, for licensing information.
 
-If you would like to contribute to the project, feel free to email me at 11.mayur@gmail.com, with your ideas, and I will grant your pull request! :)
+If you would like to contribute to the project, feel free to email me at 11.mayur@gmail.com, with your ideas, and I will grant your pull request, or, fork my repo :)

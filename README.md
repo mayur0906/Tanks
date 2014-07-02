@@ -1,7 +1,7 @@
 Tanks
 =====
 
-A Tank game, based on HTML5 and JavaScript. The objective of the game, is to shoot all the tanks in 60 seconds, without losing lives.
+An interactive game, based on HTML5 and JavaScript. The player has to control a tank, using the directional keys, and the main objective of the player, is to shoot all the enemy tanks, using the space bar, in 60 seconds, without losing lives.
 
 [Click here to play!](http://mayur0906.github.io/Tanks/)
 
